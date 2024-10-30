@@ -1,0 +1,15 @@
+
+.woocommerce_options_panel input{float: right;}
+.woocommerce_options_panel label{float:right;}
+.woocommerce_options_panel select{float:right;}
+.woocommerce_options_panel .description{margin: 0 7px 0 0;}
+img.help_tip{margin: 0 9px 0 0;}
+/* */
+.wc-metaboxes-wrapper .wc-metabox table td label{text-align: right;}
+.wc-metaboxes-wrapper .wc-metabox table td{text-align: right;}
+.wc-metaboxes-wrapper select.attribute_taxonomy, .wc-metaboxes-wrapper button.add_attribute, .wc-metaboxes-wrapper button.add_variable_attribute, .wc-metaboxes-wrapper .fr {float: left;}
+.woocommerce_options_panel .chzn-container-multi{float: right;}
+.widefat .column-order_status{width: 85px;}
+.widefat a > img{float: right}
+div.smalllabel span.description{display:block; clear:both; font-size:10px; color:#888}
+div#woocommerce-product-data .woocommerce_options_panel .short{width: 30%;}
